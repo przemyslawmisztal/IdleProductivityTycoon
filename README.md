@@ -1,1 +1,1 @@
-# IdleProductivityTycoon
+# Idle Productivity Tycoon
