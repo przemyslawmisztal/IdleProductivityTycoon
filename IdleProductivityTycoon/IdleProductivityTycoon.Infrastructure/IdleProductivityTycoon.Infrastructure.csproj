@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IdleProductivityTycoon.Application\IdleProductivityTycoon.Application.csproj" />
+  </ItemGroup>
+
 </Project>

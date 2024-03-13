@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\IdleProductivityTycoon.Application\IdleProductivityTycoon.Application.csproj" />
+    <ProjectReference Include="..\..\IdleProductivityTycoon.Infrastructure\IdleProductivityTycoon.Infrastructure.csproj" />
     <ProjectReference Include="..\IdleProductivityTycoon.WebUI.Client\IdleProductivityTycoon.WebUI.Client.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.2" />
   </ItemGroup>
